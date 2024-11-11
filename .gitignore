@@ -1,0 +1,4 @@
+.venv
+
+api/.mypy_cache
+api/__pycache__
